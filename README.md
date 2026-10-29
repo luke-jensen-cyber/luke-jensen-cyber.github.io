@@ -15,7 +15,7 @@ I use this page to keep track of my labs and projects as I prepare for roles in 
 *Hands-on coursework and independent labs, organized by semester.*
 
 ### Semester 1 (Fall 2026)
-* Physical Security: ID Badge Visual Bypass
+* [Physical Security: ID Badge Visual Bypass](badge-visual-bypass.md)
 * Physical Security: Lock Bypassing Lab
 * Linux 1: Command-Line Reference Guides (AlmaLinux)
 

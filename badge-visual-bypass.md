@@ -5,6 +5,7 @@
 **Security Domain:** Physical Security / Social Engineering
 
 **Tools Used:** Claude (AI), Python with OpenCV, HTML/SVG, Orbitron font (Google Fonts), Fargo DTC4000e card printer
+
 ---
 
 ## 1. Scenario & Objective
